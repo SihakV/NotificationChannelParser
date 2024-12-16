@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\netcoreapp3.1\NotificationChannelParser.exe
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\netcoreapp3.1\NotificationChannelParser.deps.json
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\netcoreapp3.1\NotificationChannelParser.runtimeconfig.json
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\netcoreapp3.1\NotificationChannelParser.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\netcoreapp3.1\NotificationChannelParser.dll
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\netcoreapp3.1\NotificationChannelParser.pdb
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\netcoreapp3.1\NotificationChannelParser.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\netcoreapp3.1\NotificationChannelParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\netcoreapp3.1\NotificationChannelParser.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\netcoreapp3.1\NotificationChannelParser.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\netcoreapp3.1\NotificationChannelParser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\netcoreapp3.1\NotificationChannelParser.dll
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\netcoreapp3.1\NotificationChannelParser.pdb
+C:\Users\Admin\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\netcoreapp3.1\NotificationChannelParser.genruntimeconfig.cache
